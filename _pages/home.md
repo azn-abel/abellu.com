@@ -16,6 +16,7 @@ Thanks for stopping by. While you're here, feel free to check out my [blog](/blo
 
 ## Experience
 
+- Software Engineering Intern @ [Tesla](https://www.tesla.com/) - Fall 2025
 - Software Engineering Intern @ [LinkedIn](https://about.linkedin.com/) - Summer 2025
 - Site Reliability Engineering Intern @ [Apple](https://www.apple.com/) - Summer 2024
 - Platform Engineering Intern @ [RENCI](https://renci.org/) - Fall 2023, Spring 2024
