@@ -31,7 +31,7 @@ downsides - verbose syntax, slow startup times, and hefty memory usage are all v
 criticisms. But for big tech companies, it's good enough, and it's not going anywhere
 anytime soon.
 
-## 2. Communication and coding ability are equally important
+## 2. Communication is as important as coding ability
 
 It's a common misconception that having good "hands" (coding ability) is enough to
 succeed in a software engineering role. This couldn't be further from the truth. Solo
