@@ -82,7 +82,7 @@ have and gaining trust from your teammates if you do a solid job.
 Taking initiative is great for expanding your reach as an intern. When you're working
 on a shared codebase, you may run into old bugs or tech debt. Flagging down these issues
 and their code owners can give you an opportunity to work on something outside of your
-immediate project, which give people outside your team a reason to get to know you. Like
+immediate project, which gives people outside your team a reason to get to know you. Like
 having ownership, this also gives you better visibility, and may even improve your
 team's reputation among other teams. The only consequence with this is that taking _too_
 much initiative with side tasks may set you behind on your primary project, so finding
