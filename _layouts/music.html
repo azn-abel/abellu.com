@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="alubums">
+  {% for album in site.albums %}
+    <article class="album">
+      <a href="{{ project.project_url }}" target="_blank" rel="noreferrer">
+        <h1>{{ album.title }}</h1>
+      </a>
+      <p>{{ album.content }}</p>
+    </div>
+    </article>
+  {% endfor %}
+</div>
