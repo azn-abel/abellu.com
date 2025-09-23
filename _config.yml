@@ -86,7 +86,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-include: ["_pages", "_projects"]
+include: ["_pages", "_projects", "_albums"]
 
 collections:
   projects:
