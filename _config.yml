@@ -91,6 +91,8 @@ include: ["_pages", "_projects", "_albums"]
 collections:
   projects:
     output: true
+  albums:
+    output: true
 
 paginate: 6
 paginate_path: /page:num/
