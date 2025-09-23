@@ -411,6 +411,22 @@ nav {
   }
 }
 
+.albums {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+
+  h3 {
+    margin: 0;
+  }
+
+  h4 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: normal;
+  }
+}
+
 .wrapper-container {
   min-height: 100%;
   position: relative;
