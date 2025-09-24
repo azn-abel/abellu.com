@@ -2,12 +2,13 @@
 layout: default
 ---
 
+{% assign sorted_albums = site.projects | sort: "path" %}
 <div class="albums">
-  {% for album in site.albums %}
-    <article class="album">
-      <img src="{{ album.image_url }}" alt="{{ album.title }} album cover">
-      <h3>{{ album.title }}</h3>
-      <h4>{{ album.artist }}</h4>
-    </article>
+  {% for album in sorted_albums %}
+  <article class="album">
+    <img src="{{ album.image_url }}" alt="{{ album.title }} album cover" />
+    <h3>{{ album.title }}</h3>
+    <h4>{{ album.artist }}</h4>
+  </article>
   {% endfor %}
 </div>
