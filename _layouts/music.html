@@ -3,6 +3,9 @@ layout: default
 ---
 
 {% assign sorted_albums = site.projects | sort: "path" %}
+
+<h1>Music I Like</h1>
+
 <div class="albums">
   {% for album in sorted_albums %}
   <article class="album">
